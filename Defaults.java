@@ -1,6 +1,4 @@
-/**
- * This class is fully implemented and requires no further changes
- */
+
 public class Defaults {
 
     public static final int DEFAULT_NUMBER_OF_ROWS = 4;
